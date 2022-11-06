@@ -133,3 +133,5 @@ public class ClientConsole implements ChatIF
   }
 }
 //End of ConsoleChat class
+
+// first commit test
